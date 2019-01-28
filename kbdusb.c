@@ -170,7 +170,7 @@ int mapkey(const unsigned char keypressed) {
     case 0x35:
       keysent = KEY_GRAVE;
       break;
-    case 0x32:
+    case 0x31:
       keysent = KEY_BACKSLASH;
       break;
     case 0x36:
